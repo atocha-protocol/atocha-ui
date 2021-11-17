@@ -1,0 +1,8 @@
+{
+  "FractionLength": "u32",
+  "PuzzleTicket": "u64",
+  "PuzzleRelationType": "u8",
+  "PuzzleSubjectHash": "Bytes",
+  "PuzzleAnswerHash": "Bytes",
+  "PuzzleStatus": "u8"
+}

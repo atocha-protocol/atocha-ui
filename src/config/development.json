@@ -1,0 +1,4 @@
+{
+  "PROVIDER_SOCKET": "ws://yz:7781",
+  "IPFS_API_HOST": "http://yz:3000"
+}
